@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+	<property name="bootvers" value="1992"></property>
+	<property name="enable_auto_commit" value="true"></property>
+	<property name="auto_commit_interval_ms" value="1000"></property>
+	<property name="session_timeout_ms" value="30000"></property>
+	<property name="keyer"
+		value="org.apache.kafka.cgDeserializer"></property>
+	<property name="value_dzer"
+		value="org.apaerializer"></property>
+	<property name="groupid" value="bccompute"></property>
+	<property name="seopic" value="a"></property>
+
+	<property name="numworkers" value="7"></property>
+
+	<!-- db -->
+	<property name="username" value=""></property>
+	<property name="password" value="Ci4ctw"></property>
+	<property name="url" value="jdbc:mysql.1r"></property>
+
+
+
+</configuration>
